@@ -140,7 +140,7 @@ export default function Hero() {
               href="/contact"
               className="font-lato text-sm tracking-[0.2em] uppercase text-ivory/80 hover:text-champagne border border-ivory/30 hover:border-champagne/50 px-10 py-4 rounded-full luxury-transition"
             >
-              Book Consultation
+              Book for Event
             </Link>
           </div>
         </div>

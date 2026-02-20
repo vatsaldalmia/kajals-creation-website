@@ -51,14 +51,11 @@ export default function Footer() {
 
             {/* Social Icons */}
             <div className="flex space-x-4 pt-2">
-              <Link href="#" className="social-glow text-ivory/30 hover:text-champagne" aria-label="Facebook">
+              <Link href="https://www.facebook.com/abhikajaldalmia/?http_ref=eyJ0cyI6MTc3MTYyOTIyMzAwMCwiciI6IiJ9" className="social-glow text-ivory/30 hover:text-champagne" aria-label="Facebook">
                 <Facebook className="h-5 w-5" strokeWidth={1.5} />
               </Link>
-              <Link href="#" className="social-glow text-ivory/30 hover:text-champagne" aria-label="Instagram">
+              <Link href="https://www.instagram.com/dalmiakajal?igsh=eWl6NXp1dm00NWNh" className="social-glow text-ivory/30 hover:text-champagne" aria-label="Instagram">
                 <Instagram className="h-5 w-5" strokeWidth={1.5} />
-              </Link>
-              <Link href="#" className="social-glow text-ivory/30 hover:text-champagne" aria-label="LinkedIn">
-                <Linkedin className="h-5 w-5" strokeWidth={1.5} />
               </Link>
             </div>
           </div>
